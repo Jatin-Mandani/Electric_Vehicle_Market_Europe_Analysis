@@ -29,7 +29,7 @@ The performance dashboard file `dashboard.pbix` can be opened in Microsoft Power
 
 ## References
 
-We mainly used data from the [European Alternative Fuels Observatory (EAFO)](https://eafo.eu). For the EV popularity index, we used data from [Google Trends](https://trends.google.com) for the keyword "electric vehicle" translated into each country's most-used language. We translated the word using [Google Translate](https://translate.google.com/) and used the first suggested translation.
+I mainly used data from the [European Alternative Fuels Observatory (EAFO)](https://eafo.eu). For the EV popularity index, I used data from [Google Trends](https://trends.google.com) for the keyword "electric vehicle" translated into each country's most-used language. I translated the word using [Google Translate](https://translate.google.com/) and used the first suggested translation.
 
 European Alternative Fuels Observatory. (2008–2021a). *Alternative fuels (electricity) charging infra stats | EAFO* [Dataset]. [https://www.eafo.eu/alternative-fuels/electricity/charging-infra-stats](https://www.eafo.eu/alternative-fuels/electricity/charging-infra-stats)
 
